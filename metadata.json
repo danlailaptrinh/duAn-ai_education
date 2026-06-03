@@ -1,0 +1,6 @@
+{
+  "name": "Studydase",
+  "description": "Nền tảng hỗ trợ học tập thông minh, cá nhân hóa lộ trình ôn thi THPT và giải đáp học tập cùng Gia sư AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
